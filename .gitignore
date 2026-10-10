@@ -1,0 +1,6 @@
+build/
+out/
+*.class
+/tools/cache/
+/local.properties
+*.apk.idsig
